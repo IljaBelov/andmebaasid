@@ -1,0 +1,33 @@
+{
+  "name": "andmebaasid",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IljaBelov/andmebaasid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IljaBelov/andmebaasid/issues"
+  },
+  "homepage": "https://github.com/IljaBelov/andmebaasid#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "@types/node": "^26.6.3",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "mysql2": "^3.24.5",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^1.1.1"
+  }
+}
